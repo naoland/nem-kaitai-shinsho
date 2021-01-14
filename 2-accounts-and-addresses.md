@@ -16,4 +16,4 @@ NEMは、すべてのトランザクションが、秘匿性、証明性、非�
 
 [目指せ北海道](https://nemlog.nem.social/profile/416)
 
-[目次に戻る](README.md)
+[目次に戻る](https://github.com/naoland/nem-kaitai-shinsho#2-アカウントとアドレス)
