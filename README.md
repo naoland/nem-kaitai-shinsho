@@ -134,3 +134,6 @@
 
 NEM解体新書の目次  
 https://nemlog.nem.social/blog/44109
+
+NEM Technical Reference（PDF）  
+https://nemplatform.com/wp-content/uploads/2020/05/NEM_techRef.pdf
