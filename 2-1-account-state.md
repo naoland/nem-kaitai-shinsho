@@ -21,14 +21,11 @@ NEMネットワークを支えている暗号通貨をXEMと呼びます。XEM�
 さらに、1440ブロック（約１日）ごとに、未承認XEMの1/10が承認済みXEMに移行されます。
 
 
-![図１：100,000XEMの承認カーブ（縦軸が承認済み残高）](https://s3-ap-northeast-1.amazonaws.com/nem-social/blog/0/7000/7600/7611/1542860634%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202018-11-22%2013.23.30.png)
-図１：100,000XEMの承認カーブ（縦軸が承認済み残高）
+![図１：100,000XEMの承認カーブ（縦軸が承認済み残高）](https://s3-ap-northeast-1.amazonaws.com/nem-social/blog/0/7000/7600/7611/1542860634%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202018-11-22%2013.23.30.png)  
+図１：100,000XEMの承認カーブ（縦軸が承認済み残高）  
 
 nemesisブロック（NEMブロックチェーンの最初のブロック）に含まれるすべてのアカウント残高はすべて承認済み残高です。
 
 ----
 
-[目指せ北海道](https://nemlog.nem.social/profile/416)
-
-
-[目次に戻る](https://github.com/naoland/nem-kaitai-shinsho#21-アカウントの状態)
+[目指せ北海道](https://nemlog.nem.social/profile/416) |  [目次に戻る](https://github.com/naoland/nem-kaitai-shinsho#21-アカウントの状態)
