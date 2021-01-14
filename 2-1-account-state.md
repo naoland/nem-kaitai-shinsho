@@ -31,3 +31,5 @@ nemesisブロック（NEMブロックチェーンの最初のブロック）に�
 [目指せ北海道](https://nemlog.nem.social/profile/416)
 
 [目次に戻る](README.md)
+
+https://github.com/naoland/nem-kaitai-shinsho/tree/naoland-add-docs#1-%E3%82%A4%E3%83%B3%E3%83%88%E3%83%AD%E3%83%80%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3
